@@ -70,6 +70,7 @@ GEM
     mime-types (2.99.1)
     mini_portile2 (2.0.0)
     minitest (5.8.4)
+    mocha (0.9.12)
     multi_json (1.11.2)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
@@ -146,6 +147,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
+  mocha
   rails (= 4.2.5.1)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
